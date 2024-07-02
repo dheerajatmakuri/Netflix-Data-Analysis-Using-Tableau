@@ -1,5 +1,8 @@
 # Netflix-Data-Analysis-Using-Tableau
 
+![image](https://github.com/dheerajatmakuri/Netflix-Data-Analysis-Using-Tableau/assets/58382317/f17744ef-74c7-46b9-a958-52853a0e6384)
+
+
 ## Project Overview
 
 This project comprehensively analyzes Netflix movies and TV shows using Tableau. The analysis includes visual representations of various attributes such as release year, ratings, genres, and geographical distribution of Netflix content. The dashboard provides an insightful look into the diversity and distribution of Netflix's library over time and across different countries.
