@@ -1,6 +1,7 @@
 # Netflix-Data-Analysis-Using-Tableau
 
-![image](https://github.com/dheerajatmakuri/Netflix-Data-Analysis-Using-Tableau/assets/58382317/f17744ef-74c7-46b9-a958-52853a0e6384)
+![image](https://github.com/dheerajatmakuri/Netflix-Data-Analysis-Using-Tableau/assets/58382317/0ba95991-c9de-4ae5-ad07-e53dbffc316e)
+
 
 
 ## Project Overview
