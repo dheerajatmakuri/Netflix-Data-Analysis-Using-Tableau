@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project presents a comprehensive analysis of Netflix movies and TV shows using Tableau. The analysis includes visual representations of various attributes such as release year, ratings, genres, and geographical distribution of Netflix content. The dashboard provides an insightful look into the diversity and distribution of Netflix's library over time and across different countries.
+This project comprehensively analyzes Netflix movies and TV shows using Tableau. The analysis includes visual representations of various attributes such as release year, ratings, genres, and geographical distribution of Netflix content. The dashboard provides an insightful look into the diversity and distribution of Netflix's library over time and across different countries.
 
 ## Dashboard Components
 
@@ -21,10 +21,10 @@ This project presents a comprehensive analysis of Netflix movies and TV shows us
    - Bar chart displaying the count of movies and TV shows under different rating categories (e.g., TV-MA, TV-14, TV-PG).
 
 5. **Total Movies and TV Shows by Years**:
-   - An area chart showing the distribution of movies and TV shows released over the years from 2008 to 2021.
+   - An area chart showing the distribution of movies and TV shows released from 2008 to 2021.
 
 6. **Top 10 Genres**:
-   - Bar chart listing the top 10 genres with the highest number of content pieces.
+   - Bar chart listing the top 10 genres with the most content pieces.
 
 7. **Movies and TV Shows Distribution**:
    - Pie chart showing the proportion of Movies vs. TV Shows in the Netflix library.
@@ -35,7 +35,7 @@ This project presents a comprehensive analysis of Netflix movies and TV shows us
 ## Key Insights
 
 - **Geographical Distribution**: The United States has the highest number of Netflix content pieces, followed by Canada and India.
-- **Ratings**: TV-MA rated content dominates the Netflix library, followed by TV-14 and TV-PG.
+- **Ratings**: TV-MA-rated content dominates the Netflix library, followed by TV-14 and TV-PG.
 - **Release Trends**: There has been a significant increase in Netflix content production and addition to the library, particularly from 2016 onwards.
 - **Genre Popularity**: International Dramas and Documentaries are among the most prevalent genres on Netflix.
 
@@ -44,13 +44,13 @@ This project presents a comprehensive analysis of Netflix movies and TV shows us
 1. **Filtering Data**: Use the dropdown filters at the top to select specific types (Movies/TV Shows) and titles for detailed analysis.
 2. **Exploring Visuals**: Hover over the visual elements to get detailed information and tooltips.
 3. **Interactivity**: Click on different segments of charts to dynamically filter and explore related data across the dashboard.
-4. **Reading Descriptions**: Check the description panel to get insights into specific titles.
+4. **Reading Descriptions**: Check the description panel for insights into specific titles.
 
 ## Worksheets Description
 
 ### 1. Total Movies & TV Shows by Country
 - **Description**: This worksheet displays a world map with the distribution of Netflix content across various countries. The color gradient represents the number of movies and TV shows available in each country.
-- **Usage**: Helps identify the geographic availability and concentration of Netflix content.
+- **Usage**: Helps identify Netflix content's geographic availability and concentration.
 
 ### 2. Ratings Distribution
 - **Description**: A bar chart showing the distribution of Netflix content across different rating categories.
@@ -92,4 +92,4 @@ For any queries or further information, please contact:
 - **Name**: Dheeraj Atmakuri
 - **Email**: dheerajatmakuri2010070@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/dheeraj-atmakuri/
-- **Dataset**: https://www.kaggle.com/datasets/shivamb/netflix-shows
+- **Dataset**: https://github.com/dheerajatmakuri/Netflix-Data-Analysis-Using-Tableau
